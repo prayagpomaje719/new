@@ -1,3 +1,5 @@
 new contents added 
 
 git added new line 
+
+new contents aare added and now i want to stash them 
